@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JhonCamargo53/DesarrolloWeb-Rubrica/static/css/main.2a51d786.css",
+    "main.js": "/JhonCamargo53/DesarrolloWeb-Rubrica/static/js/main.6bc819ac.js",
+    "static/media/img1.jpg": "/JhonCamargo53/DesarrolloWeb-Rubrica/static/media/img1.05416ee96efc8180e0f2.jpg",
+    "static/media/img2.jpg": "/JhonCamargo53/DesarrolloWeb-Rubrica/static/media/img2.f530e09b0e3693845a53.jpg",
+    "index.html": "/JhonCamargo53/DesarrolloWeb-Rubrica/index.html",
+    "main.2a51d786.css.map": "/JhonCamargo53/DesarrolloWeb-Rubrica/static/css/main.2a51d786.css.map",
+    "main.6bc819ac.js.map": "/JhonCamargo53/DesarrolloWeb-Rubrica/static/js/main.6bc819ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a51d786.css",
+    "static/js/main.6bc819ac.js"
+  ]
+}
